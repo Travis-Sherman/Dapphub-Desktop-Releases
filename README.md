@@ -28,7 +28,3 @@
 - **Governance and Influence**: Grant voting rights through token ownership, allowing investors to participate in key decisions about the platform’s development and future direction.
 - **Staking Rewards**: Implement a staking mechanism where investors can stake their tokens to earn additional rewards or interest.
 - **Airdrops**: Periodically distribute additional tokens or rewards through airdrops to token holders.
-
----
-
-This revised approach ensures that each stakeholder group sees the unique value Dapphub provides while maintaining a focus on the benefits that align with Web3 principles.
