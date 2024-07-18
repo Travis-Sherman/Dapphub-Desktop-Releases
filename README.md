@@ -1,6 +1,6 @@
 # Dapphub-Desktop-Releases
 
-### Value to Consumers, Contributors, and Investors
+### Value to Consumers, Founders, Contributors, and Investors of Dapphub
 
 ### 1. **Founder of Dapphub**
 - **Vision Realization**: Enable the founder to bring their vision of a more empowered and equitable digital future to life.
